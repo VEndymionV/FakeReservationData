@@ -5,6 +5,7 @@
       "title": "Example title",
       "startTime": "12:15",
       "endTime": "15:30",
+      "startDate": "23.03.2019",
       "location": "Example location",
       "color": {
         "red": 255,
@@ -18,6 +19,7 @@
       "title": "Example title 2",
       "startTime": "11:15",
       "endTime": "15:38",
+      "startDate": "23.03.2019",
       "location": "Example location 2",
       "color": {
         "red": 211,
@@ -31,6 +33,7 @@
       "title": "Example title 3",
       "startTime": "15:33",
       "endTime": "17:11",
+      "startDate": "23.03.2019",
       "location": "Example location 3",
       "color": {
         "red": 150,
@@ -44,6 +47,7 @@
       "title": "Example title 4",
       "startTime": "07:22",
       "endTime": "09:49",
+      "startDate": "24.03.2019",
       "location": "Example location 4",
       "color": {
         "red": 70,
