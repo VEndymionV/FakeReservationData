@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "title": "Example title",
+    "startTime": "12:15",
+    "endTime": "15:30",
+    "location": "Example location",
+    "color": {
+      "red": 255,
+      "green": 150,
+      "blue": 50
+    },
+    "isAllDay": false
+  },
+    {
+    "id": 0,
+    "title": "Example title 2",
+    "startTime": "11:15",
+    "endTime": "15:38",
+    "location": "Example location 2",
+    "color": {
+      "red": 211,
+      "green": 120,
+      "blue": 80
+    },
+    "isAllDay": false
+  },
+    {
+    "id": 0,
+    "title": "Example title 3",
+    "startTime": "15:33",
+    "endTime": "17:11",
+    "location": "Example location 3",
+    "color": {
+      "red": 150,
+      "green": 230,
+      "blue": 12
+    },
+    "isAllDay": false
+  },
+    {
+    "id": 0,
+    "title": "Example title 4",
+    "startTime": "07:22",
+    "endTime": "09:49",
+    "location": "Example location 4",
+    "color": {
+      "red": 70,
+      "green": 180,
+      "blue": 50
+    },
+    "isAllDay": false
+  }
+]
