@@ -39,6 +39,16 @@
       "endDate": "24.03.2019",
       "location": "Example location 4",
       "isAllDay": false
+    },
+      {
+      "id": 4,
+      "title": "Example title 4",
+      "startTime": "12:22",
+      "endTime": "15:49",
+      "startDate": "24.03.2019",
+      "endDate": "24.03.2019",
+      "location": "Example location 4",
+      "isAllDay": false
     }
   ]
 }
