@@ -2,42 +2,42 @@
   "reservations": [
     {
       "id": 0,
-      "title": "Example title",
+      "title": "Example title 0",
       "startTime": "12:15",
       "endTime": "15:30",
       "startDate": "23.03.2019",
       "endDate": "23.03.2019",
-      "location": "Example location",
+      "location": "Example location 0",
       "isAllDay": false
     },
       {
       "id": 1,
-      "title": "Example title 2",
+      "title": "Example title 1",
       "startTime": "11:15",
       "endTime": "15:38",
+      "startDate": "23.03.2019",
+      "endDate": "23.03.2019",
+      "location": "Example location 1",
+      "isAllDay": false
+    },
+      {
+      "id": 2,
+      "title": "Example title 2",
+      "startTime": "15:33",
+      "endTime": "17:11",
       "startDate": "23.03.2019",
       "endDate": "23.03.2019",
       "location": "Example location 2",
       "isAllDay": false
     },
       {
-      "id": 2,
-      "title": "Example title 3",
-      "startTime": "15:33",
-      "endTime": "17:11",
-      "startDate": "23.03.2019",
-      "endDate": "23.03.2019",
-      "location": "Example location 3",
-      "isAllDay": false
-    },
-      {
       "id": 3,
-      "title": "Example title 4",
+      "title": "Example title 3",
       "startTime": "07:22",
       "endTime": "09:49",
       "startDate": "24.03.2019",
       "endDate": "24.03.2019",
-      "location": "Example location 4",
+      "location": "Example location 3",
       "isAllDay": false
     },
       {
