@@ -2,7 +2,7 @@
   "reservations": [
     {
       "id": 0,
-      "title": "Example title 0",
+      "title": "Reservation 0",
       "startTime": "12:15",
       "endTime": "15:30",
       "startDate": "23.03.2019",
@@ -12,7 +12,7 @@
     },
       {
       "id": 1,
-      "title": "Example title 1",
+      "title": "Reservation 1",
       "startTime": "11:15",
       "endTime": "15:38",
       "startDate": "23.03.2019",
@@ -22,7 +22,7 @@
     },
       {
       "id": 2,
-      "title": "Example title 2",
+      "title": "Reservation 2",
       "startTime": "15:33",
       "endTime": "17:11",
       "startDate": "23.03.2019",
@@ -32,7 +32,7 @@
     },
       {
       "id": 3,
-      "title": "Example title 3",
+      "title": "Reservation 3",
       "startTime": "07:22",
       "endTime": "09:49",
       "startDate": "24.03.2019",
@@ -42,7 +42,7 @@
     },
       {
       "id": 4,
-      "title": "Example title 4",
+      "title": "Reservation 4",
       "startTime": "12:22",
       "endTime": "15:49",
       "startDate": "24.03.2019",
