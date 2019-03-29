@@ -49,6 +49,16 @@
       "endDate": "31.03.2019",
       "location": "Example location 4",
       "isAllDay": false
+    },
+      {
+      "id": 5,
+      "title": "Reservation 5",
+      "startTime": "00:15",
+      "endTime": "02:12",
+      "startDate": "30.03.2019",
+      "endDate": "30.03.2019",
+      "location": "Example location 5",
+      "isAllDay": false
     }
   ]
 }
