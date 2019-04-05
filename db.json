@@ -2,11 +2,87 @@
     "rooms": [
         {
             "id": 0,
-            "number": 123
+            "roomName": "Blue",
+            "roomNumber": "2.41",
+            "amountOfSeats": 12
         },
         {
             "id": 1,
-            "number": 234
+            "roomName": "Silver",
+            "roomNumber": "2.35",
+            "amountOfSeats": 4
+        },
+        {
+            "id": 2,
+            "roomName": "Budka",
+            "roomNumber": "2.5",
+            "amountOfSeats": 3
+        },
+        {
+            "id": 3,
+            "roomName": "Budka",
+            "roomNumber": "2.2",
+            "amountOfSeats": 3
+        },
+        {
+            "id": 4,
+            "roomName": "Budka",
+            "roomNumber": "1.1",
+            "amountOfSeats": 2
+        },
+        {
+            "id": 5,
+            "roomName": "Black",
+            "roomNumber": "1.17",
+            "amountOfSeats": 10
+        },
+        {
+            "id": 6,
+            "roomName": "Green",
+            "roomNumber": "1.15",
+            "amountOfSeats": 10
+        },
+        {
+            "id": 7,
+            "roomName": "Purple",
+            "roomNumber": "1.13",
+            "amountOfSeats": 4
+        },
+        {
+            "id": 8,
+            "roomName": "Budka",
+            "roomNumber": "1.4",
+            "amountOfSeats": 2
+        },
+        {
+            "id": 9,
+            "roomName": "Pink",
+            "roomNumber": "4.56",
+            "amountOfSeats": 4
+        },
+        {
+            "id": 10,
+            "roomName": "White",
+            "roomNumber": "4.50",
+            "amountOfSeats": 4
+        },
+        {
+            "id": 11,
+            "roomName": "Red",
+            "roomNumber": "4.62",
+            "amountOfSeats": 12
+        },
+        {
+            "id": 12,
+            "roomName": "Orange",
+            "roomNumber": "4.64",
+            "amountOfSeats": 6
+        },
+        {
+            "id": 13,
+            "roomName": "Budka",
+            "roomNumber": "4.3",
+            "amountOfSeats": 2
         }
     ],
 
