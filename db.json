@@ -150,8 +150,8 @@
         {
             "id": 6,
             "title": "Reservation 6",
-            "startTime": "07:15",
-            "endTime": "14:45",
+            "startTime": "07:00",
+            "endTime": "07:30",
             "startDate": "06.04.2019",
             "endDate": "06.04.2019",
             "location": "Example location 6",
