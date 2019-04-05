@@ -1,214 +1,225 @@
 {
-  "reservations": [
-      {
-          "id": 0,
-          "title": "Reservation 0",
-          "startTime": "12:15",
-          "endTime": "15:30",
-          "startDate": "30.03.2019",
-          "endDate": "30.03.2019",
-          "location": "Example location 0",
-          "isAllDay": false
-      },
-      {
-          "id": 1,
-          "title": "Reservation 1",
-          "startTime": "11:15",
-          "endTime": "15:38",
-          "startDate": "30.03.2019",
-          "endDate": "30.03.2019",
-          "location": "Example location 1",
-          "isAllDay": false
-      },
-      {
-          "id": 2,
-          "title": "Reservation 2",
-          "startTime": "15:33",
-          "endTime": "17:11",
-          "startDate": "30.03.2019",
-          "endDate": "30.03.2019",
-          "location": "Example location 2",
-          "isAllDay": false
-      },
-      {
-          "id": 3,
-          "title": "Reservation 3",
-          "startTime": "07:22",
-          "endTime": "09:49",
-          "startDate": "31.03.2019",
-          "endDate": "31.03.2019",
-          "location": "Example location 3",
-          "isAllDay": false
-      },
-      {
-          "id": 4,
-          "title": "Reservation 4",
-          "startTime": "12:22",
-          "endTime": "15:49",
-          "startDate": "31.03.2019",
-          "endDate": "31.03.2019",
-          "location": "Example location 4",
-          "isAllDay": false
-      },
-      {
-          "id": 5,
-          "title": "Reservation 5",
-          "startTime": "00:15",
-          "endTime": "02:12",
-          "startDate": "30.03.2019",
-          "endDate": "30.03.2019",
-          "location": "Example location 5",
-          "isAllDay": false
-      },
-      {
-          "id": 6,
-          "title": "Reservation 6",
-          "startTime": "07:15",
-          "endTime": "14:45",
-          "startDate": "01.04.2019",
-          "endDate": "01.04.2019",
-          "location": "Example location 6",
-          "isAllDay": false
-      },
-      {
-          "id": 7,
-          "title": "Reservation 7",
-          "startTime": "22:55",
-          "endTime": "23:14",
-          "startDate": "01.04.2019",
-          "endDate": "01.04.2019",
-          "location": "Example location 7",
-          "isAllDay": false
-      },
-      {
-          "id": 8,
-          "title": "Reservation 8",
-          "startTime": "01:01",
-          "endTime": "03:33",
-          "startDate": "01.04.2019",
-          "endDate": "01.04.2019",
-          "location": "Example location 8",
-          "isAllDay": false
-      },
-      {
-          "id": 9,
-          "title": "Reservation 9",
-          "startTime": "12:15",
-          "endTime": "14:00",
-          "startDate": "02.04.2019",
-          "endDate": "02.04.2019",
-          "location": "Example location 9",
-          "isAllDay": false
-      },
-      {
-          "id": 10,
-          "title": "Reservation 10",
-          "startTime": "04:00",
-          "endTime": "06:15",
-          "startDate": "02.04.2019",
-          "endDate": "02.04.2019",
-          "location": "Example location 10",
-          "isAllDay": false
-      },
-      {
-          "id": 11,
-          "title": "Reservation 11",
-          "startTime": "16:15",
-          "endTime": "18:44",
-          "startDate": "02.04.2019",
-          "endDate": "02.04.2019",
-          "location": "Example location 11",
-          "isAllDay": false
-      },
-      {
-          "id": 12,
-          "title": "Reservation 12",
-          "startTime": "11:15",
-          "endTime": "11:55",
-          "startDate": "03.04.2019",
-          "endDate": "03.04.2019",
-          "location": "Example location 12",
-          "isAllDay": false
-      },
-      {
-          "id": 13,
-          "title": "Reservation 13",
-          "startTime": "16:27",
-          "endTime": "19:01",
-          "startDate": "03.04.2019",
-          "endDate": "03.04.2019",
-          "location": "Example location 13",
-          "isAllDay": false
-      },
-      {
-          "id": 14,
-          "title": "Reservation 14",
-          "startTime": "02:05",
-          "endTime": "03:01",
-          "startDate": "03.04.2019",
-          "endDate": "03.04.2019",
-          "location": "Example location 14",
-          "isAllDay": false
-      },
-      {
-          "id": 15,
-          "title": "Reservation 15",
-          "startTime": "22:22",
-          "endTime": "23:00",
-          "startDate": "04.04.2019",
-          "endDate": "04.04.2019",
-          "location": "Example location 15",
-          "isAllDay": false
-      },
-      {
-          "id": 16,
-          "title": "Reservation 16",
-          "startTime": "11:15",
-          "endTime": "15:19",
-          "startDate": "04.04.2019",
-          "endDate": "04.04.2019",
-          "location": "Example location 16",
-          "isAllDay": false
-      },
-      {
-          "id": 17,
-          "title": "Reservation 17",
-          "startTime": "16:30",
-          "endTime": "17:40",
-          "startDate": "04.04.2019",
-          "endDate": "04.04.2019",
-          "location": "Example location 17",
-          "isAllDay": false
-      },
-      {
-          "id": 18,
-          "title": "Reservation 18",
-          "startTime": "05:55",
-          "endTime": "08:43",
-          "startDate": "05.04.2019",
-          "endDate": "05.04.2019",
-          "location": "Example location 18",
-          "isAllDay": false
-      },
-      {
-          "id": 19,
-          "title": "Reservation 19",
-          "startTime": "13:13",
-          "endTime": "18:05",
-          "startDate": "05.04.2019",
-          "endDate": "05.04.2019",
-          "location": "Example location 19",
-          "isAllDay": false
-      },
-      {
-          "id": 20,
-          "title": "Reservation 20",
-          "startTime": "06:00",
-          "endTime": "07:45",
-          "startDate": "05.04.2019",
-          "endDate": "05.04.2019",
-          "location": "Example location 20",
-          "isAllDay": false
-      }
-  ]
+    "rooms": [
+        {
+            "id": 0,
+            "number": 123
+        },
+        {
+            "id": 1,
+            "number": 234
+        }
+    ],
+
+    "reservations": [
+        {
+            "id": 0,
+            "title": "Reservation 0",
+            "startTime": "12:15",
+            "endTime": "15:30",
+            "startDate": "30.03.2019",
+            "endDate": "30.03.2019",
+            "location": "Example location 0",
+            "isAllDay": false
+        },
+        {
+            "id": 1,
+            "title": "Reservation 1",
+            "startTime": "11:15",
+            "endTime": "15:38",
+            "startDate": "30.03.2019",
+            "endDate": "30.03.2019",
+            "location": "Example location 1",
+            "isAllDay": false
+        },
+        {
+            "id": 2,
+            "title": "Reservation 2",
+            "startTime": "15:33",
+            "endTime": "17:11",
+            "startDate": "30.03.2019",
+            "endDate": "30.03.2019",
+            "location": "Example location 2",
+            "isAllDay": false
+        },
+        {
+            "id": 3,
+            "title": "Reservation 3",
+            "startTime": "07:22",
+            "endTime": "09:49",
+            "startDate": "31.03.2019",
+            "endDate": "31.03.2019",
+            "location": "Example location 3",
+            "isAllDay": false
+        },
+        {
+            "id": 4,
+            "title": "Reservation 4",
+            "startTime": "12:22",
+            "endTime": "15:49",
+            "startDate": "31.03.2019",
+            "endDate": "31.03.2019",
+            "location": "Example location 4",
+            "isAllDay": false
+        },
+        {
+            "id": 5,
+            "title": "Reservation 5",
+            "startTime": "00:15",
+            "endTime": "02:12",
+            "startDate": "30.03.2019",
+            "endDate": "30.03.2019",
+            "location": "Example location 5",
+            "isAllDay": false
+        },
+        {
+            "id": 6,
+            "title": "Reservation 6",
+            "startTime": "07:15",
+            "endTime": "14:45",
+            "startDate": "01.04.2019",
+            "endDate": "01.04.2019",
+            "location": "Example location 6",
+            "isAllDay": false
+        },
+        {
+            "id": 7,
+            "title": "Reservation 7",
+            "startTime": "22:55",
+            "endTime": "23:14",
+            "startDate": "01.04.2019",
+            "endDate": "01.04.2019",
+            "location": "Example location 7",
+            "isAllDay": false
+        },
+        {
+            "id": 8,
+            "title": "Reservation 8",
+            "startTime": "01:01",
+            "endTime": "03:33",
+            "startDate": "01.04.2019",
+            "endDate": "01.04.2019",
+            "location": "Example location 8",
+            "isAllDay": false
+        },
+        {
+            "id": 9,
+            "title": "Reservation 9",
+            "startTime": "12:15",
+            "endTime": "14:00",
+            "startDate": "02.04.2019",
+            "endDate": "02.04.2019",
+            "location": "Example location 9",
+            "isAllDay": false
+        },
+        {
+            "id": 10,
+            "title": "Reservation 10",
+            "startTime": "04:00",
+            "endTime": "06:15",
+            "startDate": "02.04.2019",
+            "endDate": "02.04.2019",
+            "location": "Example location 10",
+            "isAllDay": false
+        },
+        {
+            "id": 11,
+            "title": "Reservation 11",
+            "startTime": "16:15",
+            "endTime": "18:44",
+            "startDate": "02.04.2019",
+            "endDate": "02.04.2019",
+            "location": "Example location 11",
+            "isAllDay": false
+        },
+        {
+            "id": 12,
+            "title": "Reservation 12",
+            "startTime": "11:15",
+            "endTime": "11:55",
+            "startDate": "03.04.2019",
+            "endDate": "03.04.2019",
+            "location": "Example location 12",
+            "isAllDay": false
+        },
+        {
+            "id": 13,
+            "title": "Reservation 13",
+            "startTime": "16:27",
+            "endTime": "19:01",
+            "startDate": "03.04.2019",
+            "endDate": "03.04.2019",
+            "location": "Example location 13",
+            "isAllDay": false
+        },
+        {
+            "id": 14,
+            "title": "Reservation 14",
+            "startTime": "02:05",
+            "endTime": "03:01",
+            "startDate": "03.04.2019",
+            "endDate": "03.04.2019",
+            "location": "Example location 14",
+            "isAllDay": false
+        },
+        {
+            "id": 15,
+            "title": "Reservation 15",
+            "startTime": "22:22",
+            "endTime": "23:00",
+            "startDate": "04.04.2019",
+            "endDate": "04.04.2019",
+            "location": "Example location 15",
+            "isAllDay": false
+        },
+        {
+            "id": 16,
+            "title": "Reservation 16",
+            "startTime": "11:15",
+            "endTime": "15:19",
+            "startDate": "04.04.2019",
+            "endDate": "04.04.2019",
+            "location": "Example location 16",
+            "isAllDay": false
+        },
+        {
+            "id": 17,
+            "title": "Reservation 17",
+            "startTime": "16:30",
+            "endTime": "17:40",
+            "startDate": "04.04.2019",
+            "endDate": "04.04.2019",
+            "location": "Example location 17",
+            "isAllDay": false
+        },
+        {
+            "id": 18,
+            "title": "Reservation 18",
+            "startTime": "05:55",
+            "endTime": "08:43",
+            "startDate": "05.04.2019",
+            "endDate": "05.04.2019",
+            "location": "Example location 18",
+            "isAllDay": false
+        },
+        {
+            "id": 19,
+            "title": "Reservation 19",
+            "startTime": "13:13",
+            "endTime": "18:05",
+            "startDate": "05.04.2019",
+            "endDate": "05.04.2019",
+            "location": "Example location 19",
+            "isAllDay": false
+        },
+        {
+            "id": 20,
+            "title": "Reservation 20",
+            "startTime": "06:00",
+            "endTime": "07:45",
+            "startDate": "05.04.2019",
+            "endDate": "05.04.2019",
+            "location": "Example location 20",
+            "isAllDay": false
+        }
+    ]
 }
