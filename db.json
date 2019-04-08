@@ -85,7 +85,6 @@
             "amountOfSeats": 2
         }
     ],
-
     "reservations": [
         {
             "id": 0,
@@ -95,7 +94,8 @@
             "startDate": "30.03.2019",
             "endDate": "30.03.2019",
             "location": "Example location 0",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 1,
@@ -105,7 +105,8 @@
             "startDate": "30.03.2019",
             "endDate": "30.03.2019",
             "location": "Example location 1",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 2,
@@ -115,7 +116,8 @@
             "startDate": "30.03.2019",
             "endDate": "30.03.2019",
             "location": "Example location 2",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 3,
@@ -125,7 +127,8 @@
             "startDate": "31.03.2019",
             "endDate": "31.03.2019",
             "location": "Example location 3",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 4,
@@ -135,7 +138,8 @@
             "startDate": "31.03.2019",
             "endDate": "31.03.2019",
             "location": "Example location 4",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 5,
@@ -145,7 +149,8 @@
             "startDate": "30.03.2019",
             "endDate": "30.03.2019",
             "location": "Example location 5",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 6,
@@ -155,7 +160,8 @@
             "startDate": "06.04.2019",
             "endDate": "06.04.2019",
             "location": "Example location 6",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 7,
@@ -165,7 +171,8 @@
             "startDate": "06.04.2019",
             "endDate": "06.04.2019",
             "location": "Example location 7",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 8,
@@ -175,7 +182,8 @@
             "startDate": "06.04.2019",
             "endDate": "06.04.2019",
             "location": "Example location 8",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 9,
@@ -185,7 +193,8 @@
             "startDate": "07.04.2019",
             "endDate": "07.04.2019",
             "location": "Example location 9",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 10,
@@ -195,7 +204,8 @@
             "startDate": "07.04.2019",
             "endDate": "07.04.2019",
             "location": "Example location 10",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 1
         },
         {
             "id": 11,
@@ -205,7 +215,8 @@
             "startDate": "07.04.2019",
             "endDate": "07.04.2019",
             "location": "Example location 11",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 2
         },
         {
             "id": 12,
@@ -215,7 +226,8 @@
             "startDate": "08.04.2019",
             "endDate": "08.04.2019",
             "location": "Example location 12",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 13,
@@ -225,7 +237,8 @@
             "startDate": "08.04.2019",
             "endDate": "08.04.2019",
             "location": "Example location 13",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 1
         },
         {
             "id": 14,
@@ -235,7 +248,8 @@
             "startDate": "08.04.2019",
             "endDate": "08.04.2019",
             "location": "Example location 14",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 2
         },
         {
             "id": 15,
@@ -245,7 +259,8 @@
             "startDate": "09.04.2019",
             "endDate": "09.04.2019",
             "location": "Example location 15",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 16,
@@ -255,7 +270,8 @@
             "startDate": "09.04.2019",
             "endDate": "09.04.2019",
             "location": "Example location 16",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 1
         },
         {
             "id": 17,
@@ -265,7 +281,8 @@
             "startDate": "09.04.2019",
             "endDate": "09.04.2019",
             "location": "Example location 17",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 2
         },
         {
             "id": 18,
@@ -275,7 +292,8 @@
             "startDate": "10.04.2019",
             "endDate": "10.04.2019",
             "location": "Example location 18",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 0
         },
         {
             "id": 19,
@@ -285,7 +303,8 @@
             "startDate": "10.04.2019",
             "endDate": "10.04.2019",
             "location": "Example location 19",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 1
         },
         {
             "id": 20,
@@ -295,7 +314,8 @@
             "startDate": "10.04.2019",
             "endDate": "10.04.2019",
             "location": "Example location 20",
-            "isAllDay": false
+            "isAllDay": false,
+            "roomId": 2
         }
     ]
 }
