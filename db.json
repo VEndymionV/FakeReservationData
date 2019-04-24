@@ -285,17 +285,6 @@
             "roomId": 5
         },
         {
-            "id": 40,
-            "title": "Reservation 40,",
-            "startTime": "07:30",
-            "endTime": "12:30",
-            "startDate": "26.04.2019",
-            "endDate": "26.04.2019",
-            "location": "Example location 40",
-            "isAllDay": false,
-            "roomId": 7
-        },
-        {
             "id": 48,
             "title": "Reservation 48",
             "startTime": "08:00",
