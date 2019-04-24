@@ -296,28 +296,6 @@
             "roomId": 7
         },
         {
-            "id": 42,
-            "title": "Reservation 42",
-            "startTime": "09:00",
-            "endTime": "13:30",
-            "startDate": "26.04.2019",
-            "endDate": "26.04.2019",
-            "location": "Example location 42",
-            "isAllDay": false,
-            "roomId": 10
-        },
-        {
-            "id": 43,
-            "title": "Reservation 43",
-            "startTime": "16:00",
-            "endTime": "19:30",
-            "startDate": "26.04.2019",
-            "endDate": "26.04.2019",
-            "location": "Example location 43",
-            "isAllDay": false,
-            "roomId": 11
-        },
-        {
             "id": 48,
             "title": "Reservation 48",
             "startTime": "08:00",
