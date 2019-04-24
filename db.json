@@ -183,7 +183,7 @@
             "endDate": "24.04.2019",
             "location": "Example location 26",
             "isAllDay": false,
-            "roomId": 4
+            "roomId": 11
         },
         {
             "id": 27,
@@ -249,7 +249,7 @@
             "endDate": "26.04.2019",
             "location": "Example location 38",
             "isAllDay": false,
-            "roomId": 4
+            "roomId": 9
         },
         {
             "id": 39,
@@ -326,7 +326,7 @@
             "endDate": "27.04.2019",
             "location": "Example location 53",
             "isAllDay": false,
-            "roomId": 5
-        },
+            "roomId": 7
+        }
     ]
 }
